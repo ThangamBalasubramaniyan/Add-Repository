@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First Zoom Task</string>
+    <string name="empty_ownerName">Enter Owner Name to proceed</string>
+    <string name="empty_repoName">Enter Repo Name to proceed</string>
+</resources>
